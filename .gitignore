@@ -1,0 +1,11 @@
+.cache
+.env
+.nyc_output
+.turbo
+*.log
+*.tgz
+coverage
+dist
+node_modules
+tsconfig.tsbuildinfo
+sample.*
