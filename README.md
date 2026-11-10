@@ -3,6 +3,8 @@
 [![GitHub license](https://img.shields.io/github/license/shuunen/rock-solid.svg?color=informational)](https://github.com/Shuunen/rock-solid/blob/master/LICENSE)
 [![Visitors](https://hits.sh/github.com/Shuunen/rock-solid.svg?label=visitors&color=informational)](https://hits.sh/github.com/Shuunen/rock-solid/)
 
+![logo](docs/banner.svg)
+
 ## Thanks
 
 - [Boxy Svg](https://boxy-svg.com) : simple & effective svg editor
